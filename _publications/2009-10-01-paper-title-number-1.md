@@ -1,8 +1,12 @@
 ---
 title: "I2G2RO: Image to Grasp to Reorient"
 collection: publications
-# category: manuscripts
-# permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This is still in progress'
+category: conferences
+permalink: /publication/I2G2RO
+excerpt: 'I2G2RO trains vision-based policies for object reorientation using behavior cloning and reinforcement learning in NVIDIA Isaac Lab simulations.'
+date: 2025-08-01
+venue: 'ICRA 2026 (Projected)'
+slidesurl: ''
+paperurl: ''
+citation: 'N/A'
 ---
-

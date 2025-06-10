@@ -1,14 +1,12 @@
 ---
-title: "AMPLIFY: Actionless Motion Priors for Robot Learning from Videos"
+title: "FLASH: Flow-Based Language-Annotated Grasp Synthesis for Dexterous Hands"
 collection: publications
 category: conferences
-permalink: /publication/AMPLIFY
-excerpt: 'AMPLIFY is a novel framework that leverages large-scale video data by encoding visual dynamics into compact, discrete motion tokens derived from keypoint trajectories. Our modular approach decouples the challenges of learning what motion defines a task from how robots can perform it.'
+permalink: /publication/FLASH
+excerpt: 'FLASH is the first grasp generator using conditional flow-matching over live hand and object point clouds, improving penetration depth and lift-success metrics.'
 date: 2025-05-01
-venue: 'Under Review'
+venue: 'NeurIPS 2025*'
 slidesurl: ''
-paperurl: 'https://amplify-robotics.github.io/'
+paperurl: ''
 citation: 'N/A.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
